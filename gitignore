@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE — PyCharm
+.idea/
+*.iml
+
+# IDE — VS Code
+.vscode/
+
+# Generated plots
+plots/*.png
+
+# OS
+.DS_Store
+Thumbs.db
